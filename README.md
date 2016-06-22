@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CV-Now
 <html>
 <body>
