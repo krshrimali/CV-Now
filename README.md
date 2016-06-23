@@ -48,6 +48,3 @@ cvnow001@gmail.com
 </body>
 </html>
 =======
-# CV-Now-
-A project which automatically creates your resume within minutes! Easy to use and smooth.
->>>>>>> 84f7e67e482cee114e3c9c39b4dc99dedd1a56c5
