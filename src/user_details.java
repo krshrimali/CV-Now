@@ -27,7 +27,7 @@ import javax.swing.UIManager;
 
 /**
  *
- * @author Parul
+ * @author Parul Prakriti and Kushashwa Ravi Shrimali
  */
 public class user_details extends javax.swing.JFrame {
 
