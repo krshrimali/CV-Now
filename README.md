@@ -2,7 +2,9 @@
 <html>
 <body>
 <h2>   Introduction : </h2> 
-<p> A Java command line application, made to make it easy for starters, students, and job applicants to make their CV. </p>
+<p> A Java GUI application, made to make it easy for starters, students, and job applicants to make their CV. </p>
+
+We are happy to share the **Demo** of this project on YouTube: https://www.youtube.com/watch?v=ki4cOC5vIkk. 
 
 <p> The Format of the CV is based on the format used by famous personalities all over the World. Some of the notable faculty at Chicago University uses the similar format. We have tried to keep it as professional as possible.  </p>
 
